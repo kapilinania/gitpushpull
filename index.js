@@ -8,3 +8,7 @@ const dab ="30/11/2000"
 function above18(){
     return age >18
 }
+
+function newFn(){
+    console.log("Hay i am new function")
+}
