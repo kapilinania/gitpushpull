@@ -16,4 +16,6 @@ function newFn(){
 
 function newFeature(){
     console.log("New feature")
+    console.log("New feature Kapil inania")
+
 }
