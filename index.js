@@ -12,3 +12,8 @@ function above18(){
 function newFn(){
     console.log("Hay i am new function")
 }
+
+
+function newFeature(){
+    console.log("New feature")
+}
